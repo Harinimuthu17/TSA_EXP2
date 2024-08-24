@@ -1,6 +1,6 @@
 ### Name: M.Harini
 ### Register no:212222240035
-### Date:23.08.2024
+### Date:
 
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
